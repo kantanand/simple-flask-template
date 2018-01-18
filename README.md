@@ -4,7 +4,7 @@ You can use this template to start any app form the scratch
 ## setup 
   - $ virtualenv env
   - $ source env/bin/activate
-  - $ pip install -r requirements
+  - $ pip install -r requirements.txt
 
 ## RUN
   - $ export FLASK_APP=run.py
